@@ -61,7 +61,7 @@ Output menampilkan di _terminal_, __*5 rekomendasi buku*__ terhadap 5 profil use
 1. Jalankan program _**utama.py**_
 
 2. Sistem rekomendasi berjalan! Hasil keluaran rekomendasi berupa:
-    ![ss1](./ss1.png)
+    ![ss1](./ss2.png)
 
 ### **_Enjoy!_**
 
